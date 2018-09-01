@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae7c4ca6-1f4f-4747-a8cd-0740afa6e31a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/RPS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/RPS.js" afterDir="false" />
-    </list>
+    <list default="true" id="ae7c4ca6-1f4f-4747-a8cd-0740afa6e31a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
